@@ -21,5 +21,5 @@
   ![image](https://user-images.githubusercontent.com/81878169/124402789-21ae4000-dcf8-11eb-9cd3-c6bb683d3b26.png)
 
 ### Summary
-##### Additional analysis to be performed could include dialing in specific days during the high tourist season that could result in high volumes of potential customers in order to estimate staff needed and the proper inventory to keep on hand to ensure demand can be met.
-Challenge 9
+#####  Consistent temperatures over the year should allow the store to maintain enough volumne to keep employees full time and employed year round.  Periods of high rainfall are possible during the year and a more in-depth look at the length of a typical rain shower could provide insight of precipitation's potential impact on sales.  Additional analysis to be performed could include dialing in specific days during the high tourist season that could result in high volumes of potential customers in order to estimate staff needed and the proper inventory to keep on hand to ensure demand can be met.
+
